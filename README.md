@@ -9,10 +9,10 @@ This project demonstrates a simple shopping cart implementation. It includes fea
 ## Screenshots
 
 ![Screenshot 1](https://s8.uupload.ir/files/screen_shot_1402-11-14_at_15.03.00_zi57.png)
-*Caption for Screenshot 1*
+
 
 ![Screenshot 2](https://s8.uupload.ir/files/screen_shot_1402-11-14_at_15.03.11_xpoh.png)
-*Caption for Screenshot 2*
+
 
 ## Getting Started
 
